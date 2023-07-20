@@ -40,3 +40,5 @@ Show must go on, go on, go on, go on, go on, go on, go on, go on
 
 
 Text for commit 1 in feature branch
+
+Text for commit 2 in feature branch
